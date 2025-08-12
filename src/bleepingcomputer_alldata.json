@@ -1,0 +1,114 @@
+[
+    {
+        "author": "Bill Toulas",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 16:42:46 -0400",
+        "title": "North Korean Kimsuky hackers exposed in alleged data breach",
+        "news_link": "https://www.bleepingcomputer.com/news/security/north-korean-kimsuky-hackers-exposed-in-alleged-data-breach/",
+        "excerpt": "The North Korean state-sponsored hackers known as Kimsuky has reportedly suffered a data breach after two hackers, who describe themselves as the opposite of Kimsuky's values, stole the group's data and leaked it publicly online. [...]"
+    },
+    {
+        "author": "Bill Toulas",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 15:19:49 -0400",
+        "title": "Netherlands: Citrix Netscaler flaw CVE-2025-6543 exploited to breach orgs",
+        "news_link": "https://www.bleepingcomputer.com/news/security/netherlands-citrix-netscaler-flaw-cve-2025-6543-exploited-to-breach-orgs/",
+        "excerpt": "The Netherlands' National Cyber Security Centre (NCSC) is warning that a critical Citrix NetScaler vulnerability tracked as CVE-2025-6543 was exploited to breach \"critical organizations\" in the country. [...]"
+    },
+    {
+        "author": "Bill Toulas",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 14:05:47 -0400",
+        "title": "Details emerge on WinRAR zero-day attacks that infected PCs with malware",
+        "news_link": "https://www.bleepingcomputer.com/news/security/details-emerge-on-winrar-zero-day-attacks-that-infected-pcs-with-malware/",
+        "excerpt": "Researchers have released a report detailing how a recent WinRAR path traversal vulnerability tracked as CVE-2025-8088 was exploited in zero-day attacks by the Russian 'RomCom' hacking group to drop different malware payloads. [...]"
+    },
+    {
+        "author": "Sergiu Gatlan",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 12:50:37 -0400",
+        "title": "Microsoft tests cloud-based Windows 365 disaster recovery PCs",
+        "news_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-cloud-based-windows-365-disaster-recovery-pcs/",
+        "excerpt": "Microsoft has announced the limited public preview of Windows 365 Reserve, a service that provides temporary desktop access to pre-configured cloud PCs for employees whose computers have become unavailable due to cyberattacks, hardware issues, or software problems. [...]"
+    },
+    {
+        "author": "Mayank Parmar",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 12:49:32 -0400",
+        "title": "OpenAI is testing 3,000-per-week limit for GPT-5 Thinking",
+        "news_link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-3-000-per-week-limit-for-gpt-5-thinking/",
+        "excerpt": "OpenAI has responded to criticism that it shipped GPT-5 with token limits to minimize cost and maximize profit not with words, but rather with a new 3,000-per-week limit. [...]"
+    },
+    {
+        "author": "Mayank Parmar",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 12:10:39 -0400",
+        "title": "OneNote finally gets \"paste text only\" feature on Windows and Mac",
+        "news_link": "https://www.bleepingcomputer.com/news/microsoft/onenote-finally-gets-paste-text-only-feature-on-windows-and-mac/",
+        "excerpt": "Microsoft confirmed that it's testing the ability to paste text only (plain format) to OneNote for Windows and Mac. [...]"
+    },
+    {
+        "author": "Mayank Parmar",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 11:34:44 -0400",
+        "title": "xAI is testing Grok 4.20 to take on GPT-5, may launch this month",
+        "news_link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-is-testing-grok-420-to-take-on-gpt-5-may-launch-this-month/",
+        "excerpt": "Elon Musk-owned xAI is testing Grok 4.20, a small update to Grok 4, which already competes with GPT-5 in some benchmarks, such as ARC-AGI 2. [...]"
+    },
+    {
+        "author": "Sponsored by Varonis",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 11:17:28 -0400",
+        "title": "The Rise of Native Phishing: Microsoft 365 Apps Abused in Attacks",
+        "news_link": "https://www.bleepingcomputer.com/news/security/the-rise-of-native-phishing-microsoft-365-apps-abused-in-attacks/",
+        "excerpt": "Native phishing turns trusted tools into attack delivery systems. Varonis shows how attackers weaponize Microsoft 365 apps, like OneNote & OneDrive, to send convincing internal lures and how to spot them before they spread. [...]"
+    },
+    {
+        "author": "Bill Toulas",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 10:31:09 -0400",
+        "title": "MuddyWater’s DarkBit ransomware cracked for free data recovery",
+        "news_link": "https://www.bleepingcomputer.com/news/security/muddywaters-darkbit-ransomware-cracked-for-free-data-recovery/",
+        "excerpt": "Cybersecurity firm Profero cracked the encryption of the DarkBit ransomware gang's encryptors, allowing them to recover a victim's files for free without paying a ransom. [...]"
+    },
+    {
+        "author": "Sergiu Gatlan",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 08:03:34 -0400",
+        "title": "'Chairmen' of $100 million scam operation extradited to US",
+        "news_link": "https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/",
+        "excerpt": "The U.S. Department of Justice charged four Ghanaian nationals for their roles in a massive fraud ring linked to the theft of over $100 million in romance scams and business email compromise attacks. [...]"
+    },
+    {
+        "author": "Sergiu Gatlan",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 05:35:55 -0400",
+        "title": "Over 29,000 Exchange servers unpatched against high-severity flaw",
+        "news_link": "https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/",
+        "excerpt": "Over 29,000 Exchange servers exposed online remain unpatched against a high-severity vulnerability that can let attackers move laterally in Microsoft cloud environments, potentially leading to complete domain compromise. [...]"
+    },
+    {
+        "author": "Sergiu Gatlan",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 04:18:56 -0400",
+        "title": "Connex Credit Union data breach impacts 172,000 members",
+        "news_link": "https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/",
+        "excerpt": "Connex, one of Connecticut's largest credit unions, warned tens of thousands of members that unknown attackers had stolen their personal and financial information after breaching its systems in early June. [...]"
+    },
+    {
+        "author": "Mayank Parmar",
+        "author_link": null,
+        "date": "Mon, 11 Aug 2025 02:40:40 -0400",
+        "title": "How to restore GPT-4o when you've GPT-5",
+        "news_link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-to-restore-gpt-4o-when-youve-gpt-5/",
+        "excerpt": "Sam Altman overhyped GPT-5 and the results are underwhelming. Some users are upset with GPT-5's new personality, but you can restore GPT-4o if you pay for the Plus plan. [...]"
+    },
+    {
+        "author": "Bill Toulas",
+        "author_link": null,
+        "date": "Sun, 10 Aug 2025 10:12:22 -0400",
+        "title": "Google Calendar invites let researchers hijack Gemini to leak user data",
+        "news_link": "https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/",
+        "excerpt": "Google fixed a bug that allowed maliciously crafted Google Calendar invites to remotely take over Gemini agents running on the target's device and leak sensitive user data. [...]"
+    }
+]
